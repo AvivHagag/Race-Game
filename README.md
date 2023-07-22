@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# Race-Game
-The Race Game Project in Java is a simulation where racers compete in land, aerial, and naval arenas using design patterns and a real-time GUI.
-=======
 # Race Project in Java
 
 Welcome to the Race Project in Java! This thrilling project simulates racers competing in various arenas, including land, aerial, and naval arenas. Each racer is represented as a separate thread with a `run()` function that moves the racer's position. The project uses design patterns like Prototype, Builder, Observer, and State to enhance functionality and maintainability. Additionally, a graphical user interface (GUI) provides real-time visualization of the racers' movements, and a side panel allows you to interact with the project easily.
 
-<img width="1066" alt="main image" src="https://github.com/Daniel-Arvili/Race-Project/assets/116496118/99f0d9e6-199c-4b47-b777-1112eb298f93">
+<img width="1066" alt="main image" src="https://user-images.githubusercontent.com/114755882/255320816-0f46eb5d-c67f-45b9-93c0-e9c224e56360.png">
 
 ## Getting Started
 
@@ -36,17 +32,17 @@ The project consists of the following components:
 
 ### Arena with Racers
 
-<img width="1187" alt="bedore race" src="https://github.com/Daniel-Arvili/Race-Project/assets/116496118/1c8c8b52-3476-4dbf-a554-3fe07a111598">
+<img width="1187" alt="before race" src="https://user-images.githubusercontent.com/114755882/255320851-606fa734-9f28-4ada-af05-869cf0125278.png">
 In this section, we provide images of the arena with racers before the race starts. The racers are positioned and ready to compete in their respective arenas. The excitement is building up as they await the signal to start the race!
 
 ### Mid-Race Action
 
-<img width="1193" alt="mid race" src="https://github.com/Daniel-Arvili/Race-Project/assets/116496118/7fd9bcaf-cc6c-4adf-adc2-c7cc382e283e">
+<img width="1193" alt="mid race" src="https://user-images.githubusercontent.com/114755882/255320860-0d7cda33-e935-402d-8cd1-a31d04a05d81.png">
 This image captures the thrilling mid-race action as the racers compete fiercely to gain the lead. You can see the racers in full motion, vying for the top positions.
 
 ### Race Results
 
-<img width="1194" alt="afer race" src="https://github.com/Daniel-Arvili/Race-Project/assets/116496118/458521f7-3a99-4ac6-a63d-6dc3dfd9205e">
+<img width="1194" alt="after race" src="https://user-images.githubusercontent.com/114755882/255320867-85e377fc-ff7c-497c-b77e-8b118369b3b8.png">
 The race results are displayed in a table format, summarizing the performance of each racer during the entire race. The table provides information about each racer's position, the arena they competed in, and their final standings. It allows you to easily compare the results and determine the top performers.
 
 Feel free to check out the images and witness the excitement of the race from start to finish!
@@ -86,4 +82,3 @@ Feel free to check out the images and witness the excitement of the race from st
 
 - **Factory Method Pattern:** The concrete arena classes implement the Factory Method design pattern, allowing you to create several arenas by entering a string representing the type of arena (e.g., "Land", "Aerial", "Naval").
 
->>>>>>> 9747f71 (finish the game)
