@@ -2,8 +2,8 @@ package game.racers.air;
 import game.racers.Racer;
 import utilities.EnumContainer.Color;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
  * The Helicopter class represents a type of racer.
  * This class extends the Racer class and implements the AerialRacer interface.
  */

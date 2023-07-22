@@ -1,7 +1,7 @@
 package game.arenas.exceptions;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
  * RacerTypeException is thrown when attempting to add a racer that is not compatible with a specific arena.
  */
 public class RacerTypeException extends Exception {

@@ -2,8 +2,8 @@ package game.arenas.exceptions;
 
 import game.racers.Racer;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
  * An exception that is thrown when the maximum limit of racers in an arena has been reached.
  */
 public class RacerLimitException extends Exception {

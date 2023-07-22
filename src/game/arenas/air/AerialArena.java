@@ -9,8 +9,8 @@ import utilities.EnumContainer.Weather;
 import utilities.EnumContainer.Height;
 import utilities.EnumContainer.Wind;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
  * The AerialArena class represents an arena for aerial racing events.
  * It extends the Arena class and adds additional properties such as vision, weather, height, and wind.
  */

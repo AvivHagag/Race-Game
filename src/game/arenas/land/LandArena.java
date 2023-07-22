@@ -9,8 +9,8 @@ import game.racers.land.LandRacer;
 import utilities.EnumContainer.Coverage;
 import utilities.EnumContainer.LandSurface;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
 The LandArena class represents a land arena in a racing game.
 It contains information about the coverage and surface of the arena.
 It also overrides the addRacer method to only allow adding land racers to the arena.

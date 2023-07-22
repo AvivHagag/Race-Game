@@ -4,8 +4,8 @@ import game.racers.Wheeled;
 import utilities.EnumContainer.Color;
 import utilities.EnumContainer.Engine;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
  * this class responsible to build a game with arenas and racers
  */
 public class Car extends Racer implements LandRacer {

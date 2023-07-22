@@ -4,8 +4,8 @@ import game.racers.Wheeled;
 import game.racers.air.AirRacer;
 import utilities.EnumContainer.Color;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
 The Airplane class represents a type of racer that can fly in the air and has wheels.
 This class extends the Racer class and implements the AerialRacer interface.
  */

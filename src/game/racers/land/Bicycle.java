@@ -4,8 +4,8 @@ import game.racers.Wheeled;
 import utilities.EnumContainer.BicycleType;
 import utilities.EnumContainer.Color;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
 A class representing a bicycle that extends the Racer class and implements the LandRacer interface.
 This class has a Wheeled and Type instance as its member variables and can be instantiated with a specified number of wheels.
 It also has methods to get and set the bicycle type and describe the specific features of the bicycle.

@@ -5,8 +5,8 @@ import game.racers.air.Helicopter;
 import utilities.EnumContainer.Color;
 import utilities.EnumContainer.Breed;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
 The Horse class represents a type of land racer that is a subclass of Racer and implements the LandRacer interface.
 It has properties such as name, max speed, acceleration, color and breed.
  */

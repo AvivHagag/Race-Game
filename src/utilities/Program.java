@@ -22,8 +22,8 @@ import game.arenas.exceptions.*;
 import utilities.EnumContainer.Color;
 
 /**
- * @author Daniel Arvili ID 211704333
-// * @author
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
  */
 public class Program {
 

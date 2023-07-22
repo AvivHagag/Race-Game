@@ -9,8 +9,8 @@ import java.util.ArrayList;
 import java.util.Observable;
 import java.util.Observer;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
 The Arena class represents a race arena where racers compete in a race.
 The arena is responsible for managing the race and the racers.
 The class has two ArrayLists to keep track of the active racers and the completed racers.

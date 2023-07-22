@@ -1,8 +1,8 @@
 package utilities;
 import java.util.Vector;
 /**
- * @Author Daniel Arvili ID 211704333
- * @Author Aviv Hagag ID 318259843
+ * @Author Aviv Hagag
+ * @Author Daniel Arvili
  The MyObservable class represents an observable object in the observer design pattern.
  It allows other objects to register themselves as observers and be notified of changes.
  */
